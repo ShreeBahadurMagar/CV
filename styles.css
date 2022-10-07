@@ -1,0 +1,20 @@
+/* Creating the external CSS and styling the body tag part */
+body{
+  background-color: #A5F1E9; 
+  }
+        /*styling the hr tag part by using the background color as white, border line as none and making the 2px height outline-width|thin|medium|thick border line*/
+h1{
+  color: whitesmoke;
+  }
+h3{
+  color: black;
+}
+hr{
+      /*background-color : white; */
+      border-style: none;
+      border-top-style: dotted; 
+      border-color: white;
+      border-width: 7px;
+      height: 0px;
+      width: 5%;
+    }
